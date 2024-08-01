@@ -1,4 +1,6 @@
-# From Sean Allen's course - Appetizer's App
+# Appetizers App
+
+From Sean Allen's course
 
 What I used in this project
 
