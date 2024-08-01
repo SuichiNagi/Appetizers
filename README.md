@@ -5,7 +5,6 @@ From Sean Allen's course
 What I used in this project
 
 * SwiftUI
-* Swift States
 * Support dark mode
 * SFSymbols
 * Custom Views
